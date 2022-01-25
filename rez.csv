@@ -1,0 +1,3 @@
+outbound_departure_airport,outbound_arrival_airport,outbound_departure_time,outbound_arrival_time,inbound_departure_airport,inbound_arrival_airport,inbound_departure_time,inbound_arrival_time,total_price
+NBO,MBA,Sat 11 Dec 6:40pm,Sat 11 Dec 7:50pm,MBA,NBO,Sat 18 Dec 8:10pm,Sat 18 Dec 9:20pm,12880
+NBO,MBA,Tue 21 Dec 6:40pm,Tue 21 Dec 7:50pm,MBA,NBO,Sat 18 Dec 8:10pm,Sat 18 Dec 9:20pm,13880
